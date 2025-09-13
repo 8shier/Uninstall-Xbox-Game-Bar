@@ -1,7 +1,7 @@
 # Uninstall-Xbox-Game-Bar
 完全卸载Xbox Game Bar
 
-Completely uninstall Xbox Game Bar and donot reinstall it automatically
+Completely uninstall Xbox Game Bar
 
 <span style="font-size:18px; font-weight:bold; color:red;">1️⃣</span>首先在任务管理器中终止关于Xbox Game Bar的所有进程
 
